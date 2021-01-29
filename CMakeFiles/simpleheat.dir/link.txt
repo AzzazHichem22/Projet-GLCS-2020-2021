@@ -1,0 +1,1 @@
+/usr/bin/c++ -pthread CMakeFiles/simpleheat.dir/simpleheat.cpp.o -o simpleheat  -Wl,-rpath,/usr/lib/x86_64-linux-gnu/openmpi/lib baselib/libbaselib.a heatlib/libheatlib.a simpleui/libsimpleui.a baselib/libbaselib.a /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi_cxx.so /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so -lGLCS2020_project::ex1 

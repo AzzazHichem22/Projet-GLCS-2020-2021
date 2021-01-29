@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimpleui.a CMakeFiles/simpleui.dir/src/commandlineconfig.cpp.o CMakeFiles/simpleui.dir/src/screenprinter.cpp.o
+/usr/bin/ranlib libsimpleui.a

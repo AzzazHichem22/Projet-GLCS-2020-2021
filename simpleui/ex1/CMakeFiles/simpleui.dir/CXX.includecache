@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data/Projet-GLCS-2020-2021/ex1/src/commandlineconfig.cpp
+cstdlib
+-
+iostream
+-
+string
+-
+commandlineconfig.hpp
+/data/Projet-GLCS-2020-2021/ex1/src/commandlineconfig.hpp
+
+/data/Projet-GLCS-2020-2021/ex1/src/screenprinter.cpp
+hdf5.h
+-
+chrono
+-
+iostream
+-
+thread
+-
+screenprinter.hpp
+/data/Projet-GLCS-2020-2021/ex1/src/screenprinter.hpp
+

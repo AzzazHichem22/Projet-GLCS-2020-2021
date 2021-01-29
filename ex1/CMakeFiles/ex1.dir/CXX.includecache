@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data/Projet-GLCS-2020-2021/ex1/src/ex1.cpp
+cmath
+-
+cstdlib
+-
+iostream
+-
+string
+-
+vector
+-
+hdf5.h
+-
+
+include/hdf5.h
+

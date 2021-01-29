@@ -1,0 +1,4 @@
+/data/Projet-GLCS-2020-2021/ex1/CMakeFiles/rebuild_cache.dir
+/data/Projet-GLCS-2020-2021/ex1/CMakeFiles/edit_cache.dir
+/data/Projet-GLCS-2020-2021/ex1/CMakeFiles/simpleui.dir
+/data/Projet-GLCS-2020-2021/ex1/CMakeFiles/ex1.dir

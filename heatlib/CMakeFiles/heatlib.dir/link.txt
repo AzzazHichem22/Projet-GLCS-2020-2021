@@ -1,0 +1,2 @@
+/usr/bin/ar qc libheatlib.a CMakeFiles/heatlib.dir/src/finitediffheatsolver.cpp.o CMakeFiles/heatlib.dir/src/fixedconditions.cpp.o
+/usr/bin/ranlib libheatlib.a
